@@ -1,0 +1,4 @@
+rxd.c:6:13:RXD_Open	120	static
+rxd.c:15:6:RXD_Enable	24	static
+rxd.c:32:13:RXD_Callback	16	static
+rxd.c:36:6:RXD_RxUpdate	24	static

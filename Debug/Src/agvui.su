@@ -1,0 +1,10 @@
+agvui.c:5:13:two_float2signal	120	static
+agvui.c:72:6:AGVUI_Open	16	static
+agvui.c:92:6:AGVUI_RxUpdate	32	static
+agvui.c:144:13:AGVUI_Callback	16	static
+agvui.c:149:5:AGVUI_GetHead	16	static
+agvui.c:154:9:AGVUI_GetParams	16	static
+agvui.c:159:6:AGVUI_SetTxDataAdd	24	static
+agvui.c:165:13:transmit_data	32	static
+agvui.c:174:6:AGVUI_TransmitString	24	static
+agvui.c:185:6:AGVUI_MainTask	16	static

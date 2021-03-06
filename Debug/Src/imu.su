@@ -1,0 +1,9 @@
+imu.c:39:9:MPU_ReadByte	24	static
+imu.c:49:9:MPU_WriteByte	24	static
+imu.c:60:9:MPU_ReadBytes	32	static
+imu.c:71:16:mpu_set_gyro_fsr	16	static
+imu.c:76:16:mpu_set_accel_fsr	16	static
+imu.c:80:6:IMU_GetData	24	static
+imu.c:93:13:IMU_Open	112	static
+imu.c:125:9:IMU_CheckSuccess	16	static
+imu.c:131:6:IMU_SetBoardState	16	static

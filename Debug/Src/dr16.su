@@ -1,0 +1,6 @@
+dr16.c:5:14:DR16_Open	136	static
+dr16.c:12:6:DR16_Enable	24	static
+dr16.c:31:13:DR16_ParseData	16	static
+dr16.c:69:6:DR16_RxUpdate	24	static
+dr16.c:112:13:DR16_Callback	16	static
+dr16.c:116:6:DR16_MappingData	32	static
